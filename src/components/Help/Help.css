@@ -1,0 +1,46 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=PT+Serif&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600&display=swap');*/
+
+.body-he {
+    /*background-image: url("https://i.postimg.cc/VNtFc0jD/helpImg.jpg");*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 100%;
+    margin: 0 auto;
+    /*font-family: Raleway, serif;*/
+    /*filter: blur(1px);*/
+    /*-webkit-filter: blur(8px);*/
+}
+
+.child {
+    padding-top: 134px;
+}
+
+.child-input {
+    background-color: white;
+    width: 50%;
+    border-radius: 25px;
+    margin: 0 auto;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.input-form {
+    position: relative;
+    border-radius: 25px;
+    width: 90%;
+    margin: 0 auto;
+    outline: none;
+    border: none;
+    cursor: auto;
+}
+.input-span {
+    position: relative;
+    margin-right: 10px;
+    font-size: 15px;
+    cursor: default;
+}
+
+.last-btn {
+    width: 85%;
+}

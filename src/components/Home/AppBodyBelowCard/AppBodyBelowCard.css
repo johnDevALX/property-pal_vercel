@@ -1,0 +1,13 @@
+.below-card::before {
+    content: ' ';
+    width: 2px;
+    height: 30px;
+    position: relative;
+    /*top: 12px;*/
+    right: 80px;
+    background: #A7A6AB;
+}
+
+.below {
+    margin: auto;
+}

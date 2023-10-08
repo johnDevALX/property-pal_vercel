@@ -1,0 +1,18 @@
+/*body {*/
+/*    background-color: white;*/
+/*    overflow-y: auto;*/
+/*    scrollbar-width: none;*/
+/*}*/
+
+/*body::-webkit-scrollbar {*/
+/*    display: none;*/
+/*}*/
+.tcs {
+    position: fixed;
+    background-color: white;
+    /*overflow: hidden;*/
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}

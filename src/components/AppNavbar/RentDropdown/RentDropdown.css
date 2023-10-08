@@ -1,0 +1,25 @@
+.menu::before {
+    content: '';
+    width: 1px;
+    height: 152px;
+    position: absolute;
+    /*top: 12px;*/
+    left: 228px;
+    background: #A7A6AB;
+}
+
+.menu1::before {
+    content: '';
+    width: 1px;
+    height: 152px;
+    position: absolute;
+    /*top: 12px;*/
+    left: 364px;
+    background: #A7A6AB;
+}
+
+.dropdown{
+    /*display: none;*/
+    position: absolute;
+    /*top: -999px;*/
+}
